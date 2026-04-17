@@ -1,0 +1,8 @@
+# Credenciales de Google Cloud
+service_account.json
+
+# Entorno local
+.env
+venv/
+__pycache__/
+*.log
